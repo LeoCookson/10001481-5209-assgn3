@@ -1,0 +1,23 @@
+body {
+    padding-top: 6%;
+
+    background-image: url("/Images/nz.jpg")
+      
+   
+  }
+
+  .container{
+   
+    background: #F5F5F5;
+   
+  }
+  .wrapper , .wrap{
+      display: inline;
+   
+}
+
+.buttons{
+    text-align: center; 
+}
+
+
