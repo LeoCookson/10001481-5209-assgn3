@@ -14,11 +14,13 @@ body {
   }
   .wrapper , .wrap{
       display: inline;
+      padding: 3%
    
 }
 
 .buttons{
     text-align: center; 
+   
 }
 
 .Header{
